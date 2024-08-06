@@ -29,7 +29,7 @@ city_value = StringVar()
 
 def showWeather():
     #API keys from the OpenWeatherMap dashboard
-    api_key = "36fd9ee44c8d2376e8decd312f5ab28a"  #sample API
+    api_key = ""  #sample API
 
 # Get city name from user from the input field (later in the code)
     city_name=city_value.get()
