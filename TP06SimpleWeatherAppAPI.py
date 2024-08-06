@@ -4,7 +4,7 @@
 import requests
 
 ## API Key for OpenWeatherMaps
-api_key = "36fd9ee44c8d2376e8decd312f5ab28a"
+api_key = ""
 
 ## User Input for the City
 user_city = input("Please Enter the Name of the City: ")
